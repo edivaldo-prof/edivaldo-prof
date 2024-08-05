@@ -1,16 +1,16 @@
-## Hi there 👋
+## Bem vindo ao meu perfil 💛 🚙  👋
 
-<!--
-**edivaldo-prof/edivaldo-prof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Edivaldo sou professor de Pensamento Computacional
 
-Here are some ideas to get you started:
+- Gosto do que faço.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Testando gif
+
+![](https://media.tenor.com/7jvpq5Hs7G4AAAAM/cup-coffee.gif)
+
+
+
+![](https://media.tenor.com/7jvpq5Hs7G4AAAAM/cup-coffee.gif)
+
+  https://media.tenor.com/7jvpq5Hs7G4AAAAM/cup-coffee.gif
